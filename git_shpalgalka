@@ -1,0 +1,9 @@
+git clone https://github.com/burdga/maines
+git branch
+git add file name
+git branch
+git commit -m "comment"
+git config --global user.name "burdga"
+git config --global user.email suxoza@yandex.ru
+git push -u origin master
+
